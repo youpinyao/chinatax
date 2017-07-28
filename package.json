@@ -1,0 +1,22 @@
+{
+  "name": "chinatax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node-dev index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bufferhelper": "0.2.1",
+    "chalk": "2.0.1",
+    "express": "4.15.3",
+    "iconv": "2.3.0",
+    "iconv-lite": "0.4.18",
+    "jquery": "3.2.1",
+    "promise": "8.0.1",
+    "request": "2.81.0",
+    "request-promise": "4.2.1"
+  }
+}
